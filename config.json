@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicececrypt",
+        "uuid": 26239200,
+        "checksum": "ne7pr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
